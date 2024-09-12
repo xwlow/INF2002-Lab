@@ -1,1 +1,2 @@
 # INF2002-Lab
+Labs for INF2002
